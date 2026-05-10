@@ -1,16 +1,30 @@
-## Hi there 👋
+## hey, i’m Sadhumitha
 
-<!--
-**sadhumitha-s/sadhumitha-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i build ML systems, backend infrastructure, and systems-level software. most of my work focuses on making things fast, inspectable, and not overly abstract.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### main stack
+
+Python • FastAPI • PyTorch • TypeScript • PostgreSQL • C++ • Docker • Java
+
+---
+
+### also dabble in
+
+Next.js • React • Celery • Linux
+
+---
+
+### interests
+
+* computer vision
+* graph ML
+* optimization problems
+* performance tuning
+* AI interpretability
+* knowledge graphs • agentic systems • LLMs
+
+---
+
+### open to interesting work / collaborations
