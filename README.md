@@ -1,6 +1,5 @@
-## hey, i’m Sadhumitha
-
-i build ML systems, backend infrastructure, and systems-level software. most of my work focuses on making things fast, inspectable, and not overly abstract.
+building ML systems, backend infrastructure, and systems-level software.  
+interested in research-driven engineering.
 
 ---
 
@@ -12,7 +11,7 @@ Python • FastAPI • PyTorch • TypeScript • PostgreSQL • C++ • Docker 
 
 ### also dabble in
 
-Next.js • React • Celery • Linux
+Next.js • React • Linux
 
 ---
 
@@ -27,4 +26,4 @@ Next.js • React • Celery • Linux
 
 ---
 
-### open to interesting work / collaborations
+### open to interesting collaborations and research
